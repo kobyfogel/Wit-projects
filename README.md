@@ -5,11 +5,11 @@
 * Manage code to control changes and versions.
 * Create backups for code versions, or any other files.
 * Restore your project or system to any backup that was made.
-* Create 'Branches' to allow others to edit your code or files on they own version.
+* Create 'Branches' to allow others to edit your code or files on their own version.
 * Merge  two versions of backups to a single working one.
 * Can be used as a backup system to any folder or file.
 
-# Requaierments:
+# Requierments:
 * A working python architecture.
 * The modul graphviz installed. 
 
@@ -28,7 +28,7 @@ The command creats the the ".wit" directory at current loacation.
 * Active branch: a system pointer that points to a single branch. the active branch advances with any new commit. 
 
 # add [your files\folders]:
-* Adds files or folder from under perant directory to a 'staging area'.
+* Adds files or folder from under parent directory to a 'staging area'.
 * Those files will be backed up at your next commit.
 
 # commit [optional: message]:
