@@ -25,7 +25,7 @@ The command creats the the ".wit" directory at current loacation.
 * Commit folder: a backup version of your files, created from staging area.
 * HEAD: a system pointer that points to the last relevant commit
 * Branch: a tag label user name.
-* Aciהe branch: a system pointer that points to a single branch. the active branch advances with any new commit. 
+* Active branch: a system pointer that points to a single branch. the active branch advances with any new commit. 
 
 # add [your files\folders]:
 * Adds files or folder from under perant directory to a 'staging area'.
