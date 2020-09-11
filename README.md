@@ -16,16 +16,16 @@
 Start by initiating "python init" on command prompt.
 The command creats the ".wit" directory at current location.
 
-# Commands:
-* All commands must be applied from command prompt, from the directory which "init" command was initiated, or its subdirectories
-* All commands must be initiated with "python" ahead of them.
-
 # Concepts:
 * Staging area: a location which all future backups will be initialized from.
 * Commit folder: a backup version of your files, created from staging area.
 * HEAD: a system pointer that points to the last relevant commit
 * Branch: a tag label user name.
 * Active branch: a system pointer that points to a single branch. the active branch advances with any new commit. 
+
+# Commands:
+* All commands must be applied from command prompt, from the directory which "init" command was initiated, or its subdirectories
+* All commands must be initiated with "python" ahead of them.
 
 # add [your files\folders]:
 * Adds files or folder from under parent directory to a 'staging area'.
