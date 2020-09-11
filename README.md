@@ -11,10 +11,10 @@
 
 # Requierments:
 * A working python architecture.
-* The modul graphviz installed. 
+* The modul graphviz installed: https://pypi.org/project/graphviz/
 
 Start by initiating "python init" on command prompt.
-The command creats the the ".wit" directory at current loacation.
+The command creats the ".wit" directory at current loacation.
 
 # Commands:
 * All commands must be applied from command prompt, from the directory which "init" command was initiated, or its subdirectories
